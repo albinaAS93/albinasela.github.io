@@ -6,8 +6,9 @@
 
 body {
     background-image: url("/assets/img/bg-img.jpg");
-    background-attachment: scroll;
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 #bootstrap {
